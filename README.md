@@ -13,7 +13,7 @@ times.
 Quality Control: High defect rates and failed inspections impact several products, affecting
 customer satisfaction.
 
-##Conclusion:
+## Conclusion:
 Optimize Stock Levels: Ensuring adequate stock can prevent product shortages and
 improve sales.
 Minimize Lead Times: Reducing lead times will likely boost product availability and
